@@ -52,6 +52,10 @@ Unlike DTS, we **cannot** guarantee the authenticity of the IACA. While we striv
 
 **Note**: We highly recommend reaching out to specific jurisdictions or DTS service providers for the most up-to-date certificates. While we do our best to keep the certificates current, you should not rely solely on this repository.
 
+This repository is not affiliated with, endorsed by, or officially recognized by any state or government entity. The files provided here are publicly available certificates/keys (.pem files) obtained from official state websites and are shared solely for convenience and educational purposes.
+
+By downloading and using these files, you acknowledge that they are provided "as-is," without any warranty or guarantee of any kind, express or implied. The author makes no representations about the accuracy, reliability, or security of the files, and users assume all responsibility for any consequences resulting from their use.
+
 ## ⚠️ Security Warning
 
 The IACA available in this repository has never been independently audited!
