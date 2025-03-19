@@ -40,7 +40,7 @@ For Example:
 
 United States - (State)
 
-## Disclamer
+## Disclaimer
 
 This is **NOT** a Digital Trust Service but a community-driven collection of IACA certificates. You are responsible for your own usage.  
 
@@ -49,6 +49,8 @@ This repository serves as a bridge to close the gap between IACAs available on t
 We recommend that you first obtain the IACA from the official DTS. If you are unable to find the one you are looking for, you may use the version available here.  
 
 Unlike DTS, we **cannot** guarantee the authenticity of the IACA. While we strive to obtain them from official sources, if you are concerned about security, we strongly advise against using this repository.
+
+**Note**: We highly recommend reaching out to specific jurisdictions or DTS service providers for the most up-to-date certificates. While we do our best to keep the certificates current, you should not rely solely on this repository.
 
 ## ⚠️ Security Warning
 
