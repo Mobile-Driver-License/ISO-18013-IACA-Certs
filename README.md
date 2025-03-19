@@ -50,6 +50,8 @@ We recommend that you first obtain the IACA from the official DTS. If you are un
 
 Unlike DTS, we **cannot** guarantee the authenticity of the IACA. While we strive to obtain them from official sources, if you are concerned about security, we strongly advise against using this repository.
 
+Note: We highly recommend reaching out to specific jurisdictions or DTS service providers for the most up-to-date certificates. While we do our best to keep the certificates current for our own products, this API only points to the certificates we maintain and use internally.
+
 ## ⚠️ Security Warning
 
 The IACA available in this repository has never been independently audited!
